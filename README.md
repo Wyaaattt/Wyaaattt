@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I'm currently interning at Sobat Teknologi [Shirvano](https://www.shirvano.co.id/en)
+- 🔭 I'm currently interning at Sobat Teknologi
 
 - 🌱 I’m currently learning **Next js & slim, Nuxt Js**
 
