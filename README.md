@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **juliuussyb69@gmail.com**
 
-<h3><a href="https://www.cake.me/s--AMGT7bIv6tnibnzg4NO-5g--/gultom-julius" target="blank"/> - 📄 Know about my experiences</a></h3>
+<a href="https://www.cake.me/s--AMGT7bIv6tnibnzg4NO-5g--/gultom-julius" target="blank"/> - 📄 Know about my experiences</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
