@@ -6,10 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https: //img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I'm currently interning at Sobat Teknologi
-
-- 🌱 I’m currently learning **Next js & slim, Nuxt Js**
-
 - 💬 Ask me about **React js, Laravel**
 
 - 📫 How to reach me **juliuussyb69@gmail.com**
